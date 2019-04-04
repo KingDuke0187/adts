@@ -22,7 +22,9 @@ class List //begin List definition
      
      /** MISSING OPERATIONS */
      //... fill in ....
-
+     int get(int k);
+     void clear();
+     
 };//end List definition
 
 #endif
